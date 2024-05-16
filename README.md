@@ -36,7 +36,7 @@ copy("file1.txt","file2.txt")
 ```
 ### OUTPUT:
 
-![Screenshot 2024-05-14 105024](https://github.com/23000966/Copy-File/assets/153983364/c36e765a-cc02-481b-8a45-2531657938a7)
+![Screenshot 2024-05-14 105024](https://github.com/23000966/Copy-File/assets/153983364/692207c1-8e9a-4848-a2ea-1615897bed94)
 
 
 
