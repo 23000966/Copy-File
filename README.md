@@ -35,9 +35,7 @@ def copy(fname,newfile):
 copy("file1.txt","file2.txt")
 ```
 ### OUTPUT:
-
-![Screenshot 2024-05-14 105024](https://github.com/23000966/Copy-File/assets/153983364/692207c1-8e9a-4848-a2ea-1615897bed94)
-
+![Screenshot 2024-05-14 105024](https://github.com/23000966/Copy-File/assets/153983364/a9b572af-2746-4e61-a62a-50205be150ca)
 
 
 ## RESULT:
